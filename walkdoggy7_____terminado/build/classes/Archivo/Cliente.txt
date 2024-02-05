@@ -1,0 +1,9 @@
+1,Alejo,Gudys,Bulldog Ingles,SI
+2,Liz,Kanoe,criolla,SI
+3,Carlos,Luna,Criolla,SI
+4,Brayan,Kiara,Pastor Aleman,NO
+5,Katerine,Tomy,criollo,SI
+6,Andres,max,criollo,SI
+7,Juan,Canoe,criolla,SI
+8,juan,kiara,criolla,SI
+9,JULIAN,colas,criolla,NO

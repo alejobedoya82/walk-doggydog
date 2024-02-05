@@ -1,0 +1,12 @@
+1,Julian,Betancur,EMPLEADO
+2,Samuel,Ortiz,PASEADOR
+3,Luisa,Ortiz,PASEADOR
+4,Valentina,Suñiga,EMPLEADO
+5,Nelson,Cano,PASEADOR
+6,Doris,Perez,EMPLEADO
+7,alejo,aaaaaaaaa,PASEADOR
+8,alejo2,aaaaaaaaa,PASEADOR
+9,Doris,Perez,EMPLEADO
+10,Dori2,Perez,EMPLEADO
+11,Doris3,Perez,EMPLEADO
+12,Doris4,Perez,EMPLEADO
